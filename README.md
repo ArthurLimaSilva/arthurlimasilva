@@ -1,43 +1,22 @@
-# Hello! I'm Arthur 👋
+# Hello World!!!
 
-<div align="left">
-  <img src="https://avatars.githubusercontent.com/u/192647539?s=400&u=eaa594144dd20a6064b5a7d7841d1ce766235db7&v=4" width="150px" style="border-radius: 8px;"/>
-</div>
+<p align="left">
+I'm a **Frontend Developer** currently pursuing a Bachelor's degree in Science and Technology at the Federal University of Maranhão.
+</p>
 
-I'm a **Frontend Developer** who loves coding and building amazing things. Right now, I'm focusing on leveling up my skills through the **Trilhas Program** by [Inova Maranhão](https://inovamaranhao.org.br/), exploring everything from frontend magic to backend wizardry.
+**A passionate front-end web developer from Brazil 🇧🇷**
 
-## 🚀 A Little About Me
+_Building and breaking stuff since 2019._
 
-- 🌱 Currently learning **React**, **Node.js**, and **Python**.
-- 💻 I specialize in **JavaScript**, **TypeScript**, and **CSS**.
-- 🌍 I love collaborating with like-minded people to create innovative projects.
+<p>
+<!--START_SECTION:badges-->
+<img src="http://img.shields.io/badge/Code%20Time-413%20hrs%2053%20mins-blue" alt="http://img.shields.io/badge/Code%20Time-413%20hrs%2053%20mins-blue" />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-661.5%20thousand%20lines%20of%20code-blue" alt="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-661.5%20thousand%20lines%20of%20code-blue" />
+<!--END_SECTION:badges-->
+  <a href="https://github.com/sponsors/arthurlima"><img src="https://badgen.net/badge/GitHub/Sponsor?icon=github" alt="Sponsor"></a>
+  <a href="https://www.paypal.com/donate/?business=alexhere.user@gmail.com"><img src="https://badgen.net/badge/Donate%20via/PayPal?icon=paypal" alt="Donate via PayPal"></a>
+</p>
 
-## 💡 Tech Stack
-
-I'm comfortable with a wide range of technologies:
-
-- **Languages**: HTML, CSS, JavaScript, TypeScript, Python
-- **Frontend**: React, Next.js, Angular
-- **Backend**: Node.js, Express
-- **Version Control**: Git, GitHub
-- **Tools**: VS Code, Figma, Docker
-
-## 🌟 GitHub Stats
-
-![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurdev&show_icons=true&theme=radical&hide=prs)
-
-## 🔥 Current Focus
-
-I've been diving deep into these projects lately:
-
-- **Building a personal portfolio** with **React** and **CSS**.
-- **Creating a Python-based web scraper** for a local business directory.
-
-## 📈 Code Stats
-
-### Languages & Hours:
-
-- **JavaScript** - 12 hrs
-- **Python** - 10 hrs
-- **HTML/CSS** - 8 hrs
-- **TypeScript** - 5 hrs
+<!--UP_TIME_START-->
+```text
+Up time: 18 years, 10 months and 27 days
