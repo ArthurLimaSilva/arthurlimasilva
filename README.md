@@ -1,13 +1,13 @@
-# Arthur Lima - Full Stack Developer 🚀
+# Arthur Lima - Developer Student 🚀
 
-![Arthur Lima](https://github.com/arthurlima.png)  
-**A passionate Full Stack Developer from Brazil 🇧🇷**
+![Arthur Lima](https://avatars.githubusercontent.com/u/192647539?s=400&u=eaa594144dd20a6064b5a7d7841d1ce766235db7&v=4)  
+**A passionate Front-End and Back-End Developer student from Brazil 🇧🇷**
 
-Transforming ideas into scalable applications since 2016, currently pushing the boundaries of technology while studying the Trilha Inova Maranhão program.
+Transforming ideas into scalable applications since 2019, currently pushing the boundaries of technology while studying the Trilha Inova Maranhão program.
 
 ## About Me
 
-As a versatile developer with a deep understanding of both front-end and back-end, I specialize in building dynamic, performant, and user-centric applications. Whether it's crafting beautiful interfaces or architecting robust server-side systems, I enjoy every step of the development process.  
+As a student of both front-end and back-end, I specialize in building dynamic, performant, and user-centric applications. Whether it's crafting beautiful interfaces or understanding the architecture behind server-side systems, I enjoy every step of the development process.  
 I believe that clean, maintainable code is the foundation of any great project, and I'm always striving to learn, adapt, and innovate.
 
 ## Development Journey
