@@ -19,7 +19,8 @@ I focus on building robust systems, creating beautiful and intuitive user experi
 
 ## My Skills & Tech Stack 🛠️
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,express,python,docker,postgres,mongodb,graphql,git,github,aws,azure,firebase,jquery,vue,tailwind,webpack,postgresql&theme=dark&perline=10)
+![Tech Stack](https://skillicons.dev/icons?i=java,javascript,python,html,css,nodejs,typescript,git,github,vscode&theme=dark&perline=10)
+
 ![GitHub Snake](https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -51,10 +52,10 @@ I focus on building robust systems, creating beautiful and intuitive user experi
 
 ```text
 💬 **Programming Languages:**
-TypeScript (65%) | JavaScript (20%) | Python (10%) | HTML & CSS (5%)
+Java (60%) | JavaScript (55%) | Python (50%) | TypeScript (50%) | HTML & CSS (50%)
 
 🚀 **Tech & Tools:**
-React (40%) | Node.js (30%) | GraphQL (15%) | AWS (10%) | Docker (5%)
+Java (60%) | JavaScript (55%) | Python (50%) | TypeScript (50%) | Node.js (50%)
 
 📅 **Projects:**
 - Real-time chat app using **WebSockets**
