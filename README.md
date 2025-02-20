@@ -1,6 +1,5 @@
 # Arthur Lima - Developer Student 🚀 | Back-End & Front-End Enthusiast
 
-![Arthur Lima](https://avatars.githubusercontent.com/u/192647539?s=400&u=eaa594144dd20a6064b5a7d7841d1ce766235db7&v=4)  
 **Passionate about building scalable and high-performance software**  
 **Full Stack Developer Student at Trilha Inova Maranhão | Brazil 🇧🇷**
 
