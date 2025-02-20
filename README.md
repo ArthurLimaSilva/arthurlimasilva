@@ -20,6 +20,7 @@ I focus on building robust systems, creating beautiful and intuitive user experi
 ## My Skills & Tech Stack 🛠️
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,express,python,docker,postgres,mongodb,graphql,git,github,aws,azure,firebase,jquery,vue,tailwind,webpack,postgresql&theme=dark&perline=10)
+![GitHub Snake](https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
