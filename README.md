@@ -1,6 +1,8 @@
 # Hello! I'm Arthur 👋
 
-![Arthur's Profile Picture](https://avatars.githubusercontent.com/u/192647539?s=400&u=eaa594144dd20a6064b5a7d7841d1ce766235db7&v=4)
+<div align="left">
+  <img src="https://avatars.githubusercontent.com/u/192647539?s=400&u=eaa594144dd20a6064b5a7d7841d1ce766235db7&v=4" width="150px" style="border-radius: 8px;"/>
+</div>
 
 I'm a **Frontend Developer** who loves coding and building amazing things. Right now, I'm focusing on leveling up my skills through the **Trilhas Program** by [Inova Maranhão](https://inovamaranhao.org.br/), exploring everything from frontend magic to backend wizardry.
 
