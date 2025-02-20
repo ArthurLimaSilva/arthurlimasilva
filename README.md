@@ -1,53 +1,64 @@
-# Arthur Lima - Developer Student 🚀 | Back-End & Front-End Enthusiast
+# Arthur Lima | Back-End & Front-End Developer Student
 
-**Passionate about building scalable and high-performance software**  
-**Full Stack Developer Student at Trilha Inova Maranhão | Brazil 🇧🇷**
+**Passionate Developer | Focused on building scalable and efficient solutions**  
+**Back-End & Front-End Student at Trilha Inova Maranhão | Brazil 🇧🇷**
 
 ## About Me
 
-As a student deeply passionate about both front-end and back-end development, I focus on creating clean, modular, and high-performance applications that provide great user experiences and seamless functionality. I strive to craft intuitive interfaces while also ensuring the stability and scalability of the back-end architecture. Currently diving into advanced topics like **serverless computing**, **progressive web apps**, and **microservices**.
+Hi! I'm **Arthur Lima**, a passionate developer with a deep interest in creating both dynamic, responsive front-end interfaces and powerful, scalable back-end systems. I strive for perfection in my code and am always eager to learn new technologies to improve my craft.
 
-I believe the key to great software lies in combining elegant design with efficient code. Each project I take on is an opportunity to innovate, learn, and grow.
+I focus on building robust systems, creating beautiful and intuitive user experiences, and optimizing performance at every layer. With a keen eye for design and a deep understanding of back-end systems, I bridge the gap between clean, modern front-end and high-performance back-end solutions.
 
-## Development Journey
-
-🌱 **Currently learning:**  
-- Advanced TypeScript & Node.js  
-- Serverless Architectures (AWS, Azure, Google Cloud)  
-- Progressive Web Apps (PWA) & Microservices  
-
-🚀 **Focus Areas:**  
-- Building scalable back-end solutions using **Node.js**  
-- Designing dynamic front-end interfaces with **React** & **Next.js**  
-- Optimizing APIs and databases for seamless performance  
-
-💼 **On a mission:**  
-To deliver high-impact software that improves user experiences, scales seamlessly, and drives innovation.
-
-### Badges & Stats
-
-![Code Time](https://img.shields.io/badge/Code%20Time-1150%20hrs%2043%20mins-blue?style=flat&logo=visual-studio-code)  
-![Lines of Code](https://img.shields.io/badge/Code%20Lines-7.1M-blue)  
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor%20Me-blue?logo=github&logoColor=white)](https://github.com/sponsors/arthurlima)
+### Current Learning Focus
+- Advanced **JavaScript**, **TypeScript**, and **Node.js**  
+- Scalable back-end systems using **GraphQL** and **REST APIs**  
+- Designing modern **front-end interfaces** using **React** and **Next.js**  
+- Serverless computing, cloud architectures, and microservices  
 
 ---
 
-## My Tech Stack 🛠️
+## My Skills & Tech Stack 🛠️
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,express,python,docker,postgres,mongodb,graphql,git,github,aws,azure&theme=dark&perline=10)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,express,python,docker,postgres,mongodb,graphql,git,github,aws,azure,firebase,jquery,vue,tailwind,webpack,postgresql&theme=dark&perline=10)
 
 ---
 
-## My Work Stats 📊
+## My Development Journey 🚀
+
+### **Current Learning:**
+- **Serverless Architectures** (AWS, Azure)  
+- **Microservices**  
+- **Web Performance Optimization**  
+- **Building Real-Time Applications** (WebSockets, GraphQL Subscriptions)
+
+---
+
+## Projects & Contributions 📊
+
+- **E-commerce Platform**  
+  Built a scalable e-commerce platform with **Node.js**, **React**, and **MongoDB**, implementing features like real-time inventory updates and secure payment processing.
+
+- **Real-Time Chat App**  
+  Developed a chat application using **React** and **WebSockets**, focusing on high performance and real-time message delivery.
+
+- **Serverless Microservices**  
+  Designed and deployed serverless applications using **AWS Lambda**, **DynamoDB**, and **API Gateway**, creating a robust microservices architecture.
+
+---
+
+## Recent Stats 📅
 
 ```text
-💬 **Languages & Frameworks:**
+💬 **Programming Languages:**
 TypeScript (65%) | JavaScript (20%) | Python (10%) | HTML & CSS (5%)
 
-🚀 **Recent Projects:**
-- E-commerce platform with real-time payment processing using Node.js, Stripe API, and MongoDB.
-- Real-time chat app built with WebSockets, React, and Express.
-- Cloud-based microservices architecture using AWS Lambda and DynamoDB.
+🚀 **Tech & Tools:**
+React (40%) | Node.js (30%) | GraphQL (15%) | AWS (10%) | Docker (5%)
 
-🎯 **Tools and Platforms:**
-VS Code | Docker | Kubernetes | AWS | Postgres | MongoDB | GitHub | Vercel | Heroku
+📅 **Projects:**
+- Real-time chat app using **WebSockets**
+- E-commerce platform with **Node.js** and **MongoDB**
+- Serverless architecture using **AWS Lambda**
+
+⚡ **Focus:**
+Optimizing web performance, building fast, scalable systems, and learning advanced back-end topics like **microservices** and **cloud-native development**.
