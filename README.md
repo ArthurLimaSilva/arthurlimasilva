@@ -1,66 +1,57 @@
-# Arthur Lima | Back-End & Front-End Developer Student
+# Arthur Lima | Desenvolvedor Full Stack
 
-**Passionate Developer | Focused on building scalable and efficient solutions**  
-**Back-End & Front-End Student at Trilha Inova Maranhão | Brazil 🇧🇷**
+**Desenvolvedor apaixonado | Focado em criar soluções escaláveis e eficientes**  
+**Aluno da Trilha Front-End do programa Trilhas do Inova Maranhão | Brasil 🇧🇷**
 
-## About Me
+## Sobre Mim
 
-Hi! I'm **Arthur Lima**, a passionate developer with a deep interest in creating both dynamic, responsive front-end interfaces and powerful, scalable back-end systems. I strive for perfection in my code and am always eager to learn new technologies to improve my craft.
+Olá! Eu sou **Arthur Lima**, um desenvolvedor full stack com grande interesse em criar interfaces front-end dinâmicas e responsivas, além de sistemas back-end poderosos e escaláveis.  
+Busco sempre a perfeição no código e estou em constante aprendizado para aprimorar minhas habilidades e dominar novas tecnologias.
 
-I focus on building robust systems, creating beautiful and intuitive user experiences, and optimizing performance at every layer. With a keen eye for design and a deep understanding of back-end systems, I bridge the gap between clean, modern front-end and high-performance back-end solutions.
-
-### Current Learning Focus
-- Advanced **JavaScript**, **TypeScript**, and **Node.js**  
-- Scalable back-end systems using **GraphQL** and **REST APIs**  
-- Designing modern **front-end interfaces** using **React** and **Next.js**  
-- Serverless computing, cloud architectures, and microservices  
+Meu foco é desenvolver sistemas robustos, proporcionar experiências de usuário intuitivas e otimizar o desempenho em todas as camadas da aplicação. Tenho um bom olhar para o design e uma sólida base no desenvolvimento back-end, unindo o melhor dos dois mundos.
 
 ---
 
-## My Skills & Tech Stack 🛠️
+## 🧠 Especialidades e Tecnologias
 
-![Tech Stack](https://skillicons.dev/icons?i=java,javascript,python,html,css,nodejs,typescript,git,github,vscode&theme=dark&perline=10)
+Domínio em **Front-End e Back-End**, com foco nas seguintes linguagens e tecnologias:
 
+![Tech Stack](https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark&perline=10)
 ![GitHub Snake](https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## My Development Journey 🚀
+## 🚀 Jornada no Desenvolvimento
 
-### **Current Learning:**
-- **Serverless Architectures** (AWS, Azure)  
-- **Microservices**  
-- **Web Performance Optimization**  
-- **Building Real-Time Applications** (WebSockets, GraphQL Subscriptions)
-
----
-
-## Projects & Contributions 📊
-
-- **E-commerce Platform**  
-  Built a scalable e-commerce platform with **Node.js**, **React**, and **MongoDB**, implementing features like real-time inventory updates and secure payment processing.
-
-- **Real-Time Chat App**  
-  Developed a chat application using **React** and **WebSockets**, focusing on high performance and real-time message delivery.
-
-- **Serverless Microservices**  
-  Designed and deployed serverless applications using **AWS Lambda**, **DynamoDB**, and **API Gateway**, creating a robust microservices architecture.
+### **Principais Áreas de Interesse**
+- Desenvolvimento **Front-End** moderno (HTML, CSS e JavaScript)  
+- Criação de **sistemas Back-End** robustos e performáticos  
+- Estruturação de **APIs** e integração entre serviços  
+- Práticas de código limpo, escalável e eficiente  
 
 ---
 
-## Recent Stats 📅
+## 💼 Projetos e Experiências
+
+- **Sistemas Web Completos**  
+  Desenvolvimento de aplicações integrando **Front-End e Back-End**, com foco em desempenho e experiência do usuário.
+
+- **Automatizações e Bots**  
+  Criação de scripts e automações com **Python** para facilitar processos e otimizar fluxos de trabalho.
+
+- **Aplicações Dinâmicas**  
+  Construção de interfaces modernas e interativas utilizando **HTML, CSS e JavaScript**.
+
+---
+
+## 📊 Estatísticas e Foco Atual
 
 ```text
-💬 **Programming Languages:**
-Java (60%) | JavaScript (55%) | Python (50%) | TypeScript (50%) | HTML & CSS (50%)
+💬 Linguagens de Programação:
+Python (Avançado) | Java (Avançado) | JavaScript (Intermediário) | HTML & CSS (Avançado)
 
-🚀 **Tech & Tools:**
-Java (60%) | JavaScript (55%) | Python (50%) | TypeScript (50%) | Node.js (50%)
+⚙️ Tecnologias:
+Front-End e Back-End | APIs | Automação | Desenvolvimento Web Completo
 
-📅 **Projects:**
-- Real-time chat app using **WebSockets**
-- E-commerce platform with **Node.js** and **MongoDB**
-- Serverless architecture using **AWS Lambda**
-
-⚡ **Focus:**
-Optimizing web performance, building fast, scalable systems, and learning advanced back-end topics like **microservices** and **cloud-native development**.
+🎯 Foco Atual:
+Aprimorar habilidades em aplicações full stack, melhorar desempenho e explorar arquiteturas escaláveis.
